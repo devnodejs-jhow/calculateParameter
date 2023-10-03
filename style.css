@@ -1,0 +1,31 @@
+.container-title{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.container-form{
+    width: 30vw;
+}
+.container-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    text-align: center;
+}
+
+
+
+
+#resultPage{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
