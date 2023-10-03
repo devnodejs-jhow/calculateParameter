@@ -1,26 +1,41 @@
-.container-title{
+body {
+    background-color: rgb(209, 91, 170);
+}
+
+.container-title {
     display: flex;
     width: 100vw;
     justify-content: center;
     align-items: center;
 }
-.container-form{
+
+.container-form {
     width: 30vw;
 }
-.container-main{
+
+.container-main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-p{
+
+p {
     text-align: center;
+    color: white;
+}
+h1 {
+   text-align: center;
+    color: white;
+}
+label{
+    color: white;
 }
 
 
 
 
-#resultPage{
+#resultPage {
     width: 100vw;
     height: 100vh;
     display: flex;
